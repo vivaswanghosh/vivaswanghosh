@@ -142,7 +142,7 @@ const vivaswan: Developer = {
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivaswanghosh&theme=tokyonight" width="32%" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivaswanghosh&theme=tokyonight&utcOffset=5.5" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivaswanghosh&theme=tokyonight" width="32%" />
 
 </div>
 
@@ -155,7 +155,7 @@ const vivaswan: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vivaswanghosh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=vivaswanghosh&theme=tokyonight&no-frame=true&margin-w=10&column=-1" width="100%" />
 </div>
 
 ---
