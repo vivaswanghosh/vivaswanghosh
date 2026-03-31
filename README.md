@@ -152,10 +152,18 @@ const vivaswan: Developer = {
 <!--                   TROPHY CASE                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vivaswanghosh&theme=tokyonight&no-frame=true&margin-w=10&column=-1" width="100%" />
+
+![Repos](https://img.shields.io/badge/Repositories-17-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+&nbsp;
+![Forks](https://img.shields.io/badge/Total_Forks-14-ec4899?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+&nbsp;
+![Languages](https://img.shields.io/badge/Languages-4-f59e0b?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/vivaswanghosh?style=for-the-badge&color=22c55e&labelColor=0d1117&logo=github&logoColor=white)
+
 </div>
 
 ---
@@ -166,27 +174,52 @@ const vivaswan: Developer = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/vivaswanghosh/AI_powered_resume">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivaswanghosh&repo=AI_powered_resume&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff" width="44%" />
-</a>
-&nbsp;
-<a href="https://github.com/vivaswanghosh/fitbuddy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivaswanghosh&repo=fitbuddy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff" width="44%" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/vivaswanghosh/Paathsala">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivaswanghosh&repo=Paathsala&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff" width="44%" />
-</a>
-&nbsp;
-<a href="https://github.com/vivaswanghosh/Discord-VC-Streak-Maintainer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivaswanghosh&repo=Discord-VC-Streak-Maintainer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff" width="44%" />
-</a>
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vivaswanghosh/AI_powered_resume">🤖 AI Powered Resume</a></h3>
+      <p>AI-powered resume generator leveraging Gemini API to craft professional, tailored resumes with multiple templates.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/vivaswanghosh/AI_powered_resume">
+        <img src="https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vivaswanghosh/Paathsala">📚 Paathsala</a></h3>
+      <p>AI-powered educational platform harnessing LLMs for smarter, personalized learning experiences for students.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/AI-powered-ec4899?style=flat-square&logo=openai&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/vivaswanghosh/Paathsala">
+        <img src="https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vivaswanghosh/fitbuddy">💪 FitBuddy</a></h3>
+      <p>Fitness companion web app to track workouts, nutrition, and health metrics for a healthier lifestyle.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/vivaswanghosh/fitbuddy">
+        <img src="https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vivaswanghosh/Discord-VC-Streak-Maintainer">🎮 Discord VC Streak Bot</a></h3>
+      <p>Automated Discord bot that maintains voice chat streaks and keeps communities engaged and active.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/vivaswanghosh/Discord-VC-Streak-Maintainer">
+        <img src="https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
