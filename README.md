@@ -14,11 +14,11 @@
 <br/><br/>
 
 <!-- Dynamic badges row -->
-<img src="https://komarev.com/ghpvc/?username=vivaswanghosh&label=👁️ Profile Views&color=6366f1&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=vivaswanghosh&label=Profile+Views&color=6366f1&style=for-the-badge" />
 &nbsp;
-<a href="https://github.com/vivaswanghosh?tab=followers"><img src="https://img.shields.io/github/followers/vivaswanghosh?label=✨ Followers&style=for-the-badge&color=ec4899&labelColor=1a1a2e" /></a>
+<a href="https://github.com/vivaswanghosh?tab=followers"><img src="https://img.shields.io/github/followers/vivaswanghosh?label=Followers&style=for-the-badge&color=ec4899&labelColor=1a1a2e" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/🟢 Open%20to-Collaboration-22c55e?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-22c55e?style=for-the-badge&logo=handshake&logoColor=white&labelColor=1a1a2e" />
 
 </div>
 
