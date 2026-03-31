@@ -1,0 +1,68 @@
+name: Generate Dynamic Profile Assets
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:           # allows manual trigger
+  push:
+    branches: [main]
+
+jobs:
+  # ────────────────────────────────────────────────
+  # JOB 1: Snake contribution animation
+  # ────────────────────────────────────────────────
+  snake:
+    name: 🐍 Generate Snake Animation
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake (light + dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # ────────────────────────────────────────────────
+  # JOB 2: 3D contribution calendar
+  # ────────────────────────────────────────────────
+  profile-3d:
+    name: 🌐 Generate 3D Contribution Calendar
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 10
+          SETTING_JSON: |
+            {
+              "githubUserName": "vivaswanghosh",
+              "type": "all",
+              "theme": "night-rainbow"
+            }
+
+      - name: Push 3D Calendar to repository
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions"
+          git add -A
+          git diff --staged --quiet || git commit -m "chore: update 3D contribution calendar [skip ci]"
+          git push
