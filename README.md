@@ -122,25 +122,27 @@ const vivaswan: Developer = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivaswanghosh/vivaswanghosh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivaswanghosh/vivaswanghosh/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/vivaswanghosh/vivaswanghosh/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating contributions" />
 
 </div>
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                  3D CONTRIBUTIONS                         -->
+<!--              📊 PROFILE SUMMARY CARDS                     -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-## 🌐 3D Contribution Calendar
+## 📊 Profile Summary
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vivaswanghosh/vivaswanghosh/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivaswanghosh&theme=tokyonight" width="100%" alt="Profile Summary" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivaswanghosh&theme=tokyonight" width="32%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivaswanghosh&theme=tokyonight" width="32%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivaswanghosh&theme=tokyonight&utcOffset=5.5" width="32%" />
 
 </div>
 
@@ -153,7 +155,7 @@ const vivaswan: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vivaswanghosh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=vivaswanghosh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
 </div>
 
 ---
@@ -167,21 +169,21 @@ const vivaswan: Developer = {
 <div align="center">
 
 <a href="https://github.com/vivaswanghosh/AI_powered_resume">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivaswanghosh&repo=AI_powered_resume&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff&border_radius=12" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivaswanghosh&repo=AI_powered_resume&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff" width="44%" />
 </a>
 &nbsp;
 <a href="https://github.com/vivaswanghosh/fitbuddy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivaswanghosh&repo=fitbuddy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff&border_radius=12" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivaswanghosh&repo=fitbuddy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff" width="44%" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/vivaswanghosh/Paathsala">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivaswanghosh&repo=Paathsala&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff&border_radius=12" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivaswanghosh&repo=Paathsala&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff" width="44%" />
 </a>
 &nbsp;
 <a href="https://github.com/vivaswanghosh/Discord-VC-Streak-Maintainer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivaswanghosh&repo=Discord-VC-Streak-Maintainer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff&border_radius=12" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivaswanghosh&repo=Discord-VC-Streak-Maintainer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=ec4899&text_color=ffffff" width="44%" />
 </a>
 
 </div>
